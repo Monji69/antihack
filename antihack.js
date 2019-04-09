@@ -329,7 +329,7 @@ client.on('message', message => {
           if (err) console.log(err.message);
       });
   })
-//By Akeel#0230
+//By NaSto
 
 
 
